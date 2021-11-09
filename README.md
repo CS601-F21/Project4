@@ -1,5 +1,5 @@
-# Project 4 - Ticket Purchase Web Application
-================================================
+Project 4 - Ticket Purchase Web Application
+===========================================
 
 #### Final Code and Deployment Due - December 12, 2021 - Your solution must be complete by 12/12/21. Instructions for scheduling your final interactive grading session during finals week will be posted on Slack.
 
